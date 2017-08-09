@@ -7,7 +7,7 @@ library.
 The project is a simple discount calculator; the greater the total 
 purchase amount, the bigger the calculated discount.
 
-# Documentation
+## Documentation
 
 One of the greatest things about 
 [Gherkin](https://cucumber.io/docs/reference) is the explicit documentation 
