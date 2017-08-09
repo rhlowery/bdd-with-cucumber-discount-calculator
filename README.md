@@ -16,3 +16,8 @@ this project, we do not need to write any explicit documentation.  If
 you want to know what the code does (or should do), read the 
 [*.feature](./src/test/resources/features) files!
   
+  
+## Credits
+
+Idea stolen from [Howard Deiner](https://github.com/hdeiner) and 
+specifically [this repo](https://github.com/hdeiner/cucumber-driven-drools)
