@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jamesbyars/bdd-with-cucumber-discount-calculator.svg?branch=master)](https://travis-ci.org/jamesbyars/bdd-with-cucumber-discount-calculator)
+
 # BDD With Cucumber - Discount Calculator
 
 This sample project demonstrates how we could practice Behavior 
